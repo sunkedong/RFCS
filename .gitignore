@@ -1,0 +1,32 @@
+# Compiled Object Files
+*.o
+*.gch
+
+# Compiled Binaries
+*.out
+*.so
+*.a
+
+# Build Directories
+build/
+bin/
+out/
+
+# CMake Generated Files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# CLion IDE Files
+.idea/
+cmake-build-*/
+
+# Temporary Files
+*.log
+*.tmp
+*.swp
+
+# System Files
+.DS_Store
